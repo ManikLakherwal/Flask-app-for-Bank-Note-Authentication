@@ -1,1 +1,1 @@
-# Flask-app-for-Bank-Note-Authentication
+# Flask-app-for-Heart-Disease-Prediction
