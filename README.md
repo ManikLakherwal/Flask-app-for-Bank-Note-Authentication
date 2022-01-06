@@ -1,1 +1,1 @@
-# Flask-app-for-Heart-Disease-Prediction
+# Streamlit-app-for-Heart-Disease-Prediction
